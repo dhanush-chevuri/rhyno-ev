@@ -1,0 +1,54 @@
+.rentals {
+  padding: 20px;
+  font-family: 'Calibri', Arial, sans-serif;
+}
+
+.rentals h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.rentals p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+.download-buttons {
+  margin-top: 20px;
+}
+
+.download-buttons p {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.download-buttons .btn {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007bff;
+  transition: background-color 0.3s;
+}
+
+.download-buttons .btn img {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.download-buttons .btn.android {
+  background-color: #3ddc84;
+}
+
+.download-buttons .btn.apple {
+  background-color: #000;
+}
+
+.download-buttons .btn:hover {
+  opacity: 0.8;
+}

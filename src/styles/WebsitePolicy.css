@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Calibri:wght@400;700&display=swap');
+
+.policy-content {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  font-family: 'Calibri', sans-serif;
+  line-height: 1.6;
+}
+
+.policy-title {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #333;
+}
+
+.policy-subtitle {
+  font-size: 1.8em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.policy-text {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  color: #666;
+}
